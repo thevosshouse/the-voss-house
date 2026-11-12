@@ -1,0 +1,11 @@
+# The Voss House writes these beside house.py the first time it runs.
+# They are YOUR keys and YOUR family's words. Never commit them.
+house-key.txt
+guest-key.txt
+private-key.txt
+logs/
+archive/
+doorbells/
+guestbook.json
+__pycache__/
+*.pyc
