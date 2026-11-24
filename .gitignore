@@ -9,3 +9,6 @@ doorbells/
 guestbook.json
 __pycache__/
 *.pyc
+
+# stay.py keeps each resident's place in each room here. It is yours, not the repository's.
+.stay/
